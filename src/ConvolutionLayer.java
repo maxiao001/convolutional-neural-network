@@ -18,6 +18,4 @@ public class ConvolutionLayer extends CNNLayer {
 		this.act_fun = act_fun;
 	}
 	
-	
-
 }
